@@ -1,5 +1,4 @@
-![Screenshot_1704920013](https://github.com/obaloluwaobi/flutter_view/assets/101903208/1abc0868-8050-4346-af9e-11c5137f14af)# Flutter Listview to Gridview with animation - Day 15
-
+# Flutter Listview to Gridview and vice versa with animation - Day 15
 
 
 # Development Setup 
